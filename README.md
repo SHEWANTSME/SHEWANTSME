@@ -1,4 +1,4 @@
-## Hi there 👋
+## Kim June Hyun 😄
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dorinee_restart)](https://solved.ac/dorinee_restart/)
 - 플래티넘 가자!
